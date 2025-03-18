@@ -1,2 +1,3 @@
 # taxinq
-This is my first Reposit0ry
+This is my first Repository
+Author: Amit Kr. Sharma
